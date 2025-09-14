@@ -1,2 +1,2 @@
-cd ~/storage/Documents/NewNanowrimo/
+cd ~/storage/documents/NewNanowrimo/
 git pull
