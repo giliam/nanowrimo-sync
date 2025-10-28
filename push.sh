@@ -1,5 +1,5 @@
 ./move.sh $2
-
+pwd
 echo "Adding, committing and pushing"
 echo "--> Message: $1"
 git add *
