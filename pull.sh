@@ -1,2 +1,2 @@
-cd ~/storage/documents/NewNanowrimo/
+./move.sh $1
 git pull
