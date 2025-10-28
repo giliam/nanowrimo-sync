@@ -8,3 +8,6 @@ else
     echo "...going to ~/storage/documents/NewNanowrimo/"
     cd ~/storage/documents/NewNanowrimo/
 fi
+
+echo "Arrived in folder:"
+pwd
